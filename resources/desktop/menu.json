@@ -1,0 +1,8 @@
+{
+	"leaf": false,
+	"children": [
+		{ "text": "Home", "xtype": "homeview", "leaf": true },
+		{ "text": "Personnel", "xtype": "personnelview","leaf": true },
+		{ "text": "JsonP Test", "xtype": "jsonpproxyview","leaf": true }
+	]
+}

@@ -1,0 +1,30 @@
+// sass for ModernApp.view.home.HomeView
+.homeview { 
+	color: $color;
+	font-size: 18px;
+	background-color: $base-foreground-color;
+	padding: 15px 0px 0px 15px;
+	border: 1px solid lightgray;
+	box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.homeviewtextlobsterfont { 
+	font-size: 28px;
+	font-family: $font-lobster-v20-latin-regular;
+	color: #EE9A00;
+	padding: 12px 0 0 0;
+}
+
+.homeviewtextnorwesterfont { 
+	font-size: 28px;
+	font-family: $font-norwester;
+	color: #00CD66;
+	padding: 12px 0 0 0;
+}
+
+.homeviewtextoldenglishfont { 
+	font-size: 28px;
+	font-family: $font-old-english;
+	color: #9B30FF;
+	padding: 12px 0 0 0;
+}
